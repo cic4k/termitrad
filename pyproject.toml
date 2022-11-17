@@ -6,6 +6,10 @@ authors = ["cic4k"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pytest = "^7.2.0"
+flake8 = "^5.0.4"
+pylint = "^2.15.5"
+pydocstyle = "^6.1.1"
 
 [tool.poetry.dev-dependencies]
 
