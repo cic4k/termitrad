@@ -1,21 +1,12 @@
-# Termitrad WP1
+# termitrad
+Repository for the TERMITRAD project
 
-This repository reports the progress of WP1 for the TERMITRAD project
+## Organization of the repository
+- kw\_and\_term\_extraction: Contains the files related to the first Work Package
+- traduction: Contains the files related to the second Work Package
+- term\_alignment: Contains the files related to the third Work Package
 
-## 1. Project description
-
-(updating)
-
-## 2. Project objectives
-
-(updating)
-
-## 3. Project progress
-
-(updating)
-
-## 4. Contributors
-
-- [@honghanh](https://github.com/honghanhh)
-- [@julien]() 
-- [@carlos](https://github.com/cic4k)
+## Good pratices for working with branches
+Each work package has a global branch, from which specific branch goes:
+- the global branch is: `epic/<task\_name>` (i.e. kw\_and\_term\_extraction, traduction or term\_alignment)
+- specific branches are: `feature/<task\_name>/<feature_name>`. These branch are to merge with the related epic branch.
