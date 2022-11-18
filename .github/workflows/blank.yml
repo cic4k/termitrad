@@ -139,4 +139,4 @@ jobs:
 
       # Pytest
       - name: Tests
-        run: poetry run pytest kw_and_term_extraction/ traduction/ alignment/
+        run: poetry run pytest
