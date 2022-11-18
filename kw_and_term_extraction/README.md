@@ -17,5 +17,5 @@ This repository reports the progress of WP1 for the TERMITRAD project
 ## 4. Contributors
 
 - [@honghanh](https://github.com/honghanhh)
-- [@julien]() 
+- [@julien](https://github.com/jdelaunay) 
 - [@carlos](https://github.com/cic4k)
